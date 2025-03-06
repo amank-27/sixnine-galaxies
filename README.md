@@ -1,3 +1,5 @@
+## live demo link hosted on vercel- https://sixnine-galaxies.vercel.app/
+
 # 🎲 Fair Dice Game
 
 A simple and fair dice game where players can place bets and roll a dice to either win or lose based on the outcome. The game maintains the player's balance using `localStorage`, and the backend ensures fair play using a provably fair hashing mechanism.
